@@ -1,0 +1,43 @@
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>杨运的私人网站</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color:#f1f1f1;
+    text-align: center;
+    padding:40px;
+    ">
+      <img src='https://kangwenchang.com/logo.png'alt="杨运"width="80px"height="80px"> 
+    </div>
+    <div style="
+    max-width: 760px;
+    margin: 30px auto;
+    padding: 15px;
+    line-height: 1.7;
+    ">
+      <p>本人为朔城区七中255班学生</p>
+      <p>微信号为:y2324y1130</p>
+      <p>QQ号为:2926626121</p>
+      <p>钉钉号为:y2324y1130</p>
+      <p style="text-align: center;">哈哈哈，我真牛逼</p>
+
+    </div>
+    
+    <div style="
+    background-color:#f1f1f1;
+    text-align: center;
+    padding:40px;
+    font-size:12px;
+    ">
+    <p>版权所有:yangyun</p>
+    <a href="https://www.bilibili.com/">友情链接</a>
+    </div>
+</html>
